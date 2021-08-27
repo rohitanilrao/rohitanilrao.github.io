@@ -1,0 +1,18 @@
+var name=new array();
+name[0]="john";
+name[1]="sansa";
+name[2]="thomas"; 
+name[3]="yakov";
+name[4]="arthur";
+name[5]="jimmy";
+name[6]="root";
+name[7]="ben";
+name[8]="fin";
+for (var i=0;i<name.length;i++)
+{
+	if (name[i].charAt(0)=='J'||name[i].charAt(0)=='j')
+	{
+		cosole.log("goodbye" + name[i])
+	}
+}
+
